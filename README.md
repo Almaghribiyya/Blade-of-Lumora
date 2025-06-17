@@ -19,67 +19,87 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Key collection mechanics
 
 🤖 Enemy AI
-Patrol behavior
-Player detection
-Combat engagement
-Death animations
+
+- Patrol behavior
+  
+- Player detection
+  
+- Combat engagement
+- 
+- Death animations
+  
 🎵 Audio System
-Background music
-Combat sound effects
-Collection sounds
-Player feedback audio
+
+- Background music
+
+- Combat sound effects
+
+- Collection sounds
+
+- Player feedback audio
+- 
 🎨 Visual Elements
-Pixel art graphics
-Smooth animations
-Visual feedback systems
-UI elements
+
+- Pixel art graphics 
+
+- Smooth animations
+
+- UI elements
+  
 🔧 Technical Features
-Player Systems
-Health and damage system
-Movement controls
-Combat mechanics
-Collision detection
-Enemy AI
-Pathfinding
-Combat behavior
-State management
-Audio Management
-Sound effect system
-Background music control
-Audio mixing
-Scene Management
-Level transitions
-Menu systems
-Game state control
+  
+- Health and damage system
+
+- Movement controls
+- 
+- Enemy AI
+
+- Pathfinding
+
+- State management
+  
+- Audio Management
+
+- Scene Management
+
+- Menu systems
+
 🛠️ Development
-Prerequisites
-Unity 2022.3.48f1
-Visual Studio 2022 or later
-Basic knowledge of C# and Unity
-Project Structure
+
+Prerequisites: 
+
+- Unity 2022.3.48f1
+  
+- Visual Studio 2022 or later
+
+- Basic knowledge of C# and Unity
+  
+- Project Structure
+   
 🚀 Installation
-Clone the repository
-Open project in Unity Hub
-Install required dependencies
-Build and run the game
+
+1. Clone the repository
+2. Open project in Unity Hub
+3. Install required dependencies
+4. Build and run the game
+   
 🎮 Controls
-A/D - Move left/right
-Space - Jump
-Left Mouse Button - Attack
-ESC - Pause menu
-🤝 Contributing
-Fork the project
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+- A/D - Move left/right
+  
+- Space - Jump
+
+- Left Mouse Button - Attack
+
+- ESC - Pause menu
+
 
 🎥 Screenshots
-[Add game screenshots here]
+[Add game screenshots here]![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/6584a89e-58fc-475f-9d57-6bc021d9c560)
+![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/a121f71e-5db0-49fa-9473-b64f729fc900)
+
 
 🎮 Play the Game
-[Add link to WebGL build or download]
+https://s1natraaa.itch.io/bladeoflumora
 
 Built with ❤️ by Muhammad Rezka Al Maghribi
