@@ -4,7 +4,7 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"> <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white">
 
 🌟 Overview
-Blade of Lumora is a 2D action platformer game built with Unity, featuring smooth combat mechanics, enemy AI, and engaging level design. Players navigate through challenging environments while collecting keys and battling enemies.
+Blade of Lumora is a 2D action platformer game built with Unity, featuring smooth combat mechanics, dark forest terrain & enemy AI. Players navigate through challenging environments while collecting keys and battling enemies.
 
 🎥 Screenshots
 
