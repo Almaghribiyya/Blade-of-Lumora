@@ -1,18 +1,18 @@
-🎮 Blade of Lumora - 2D Action Platformer
+# 🎮 Blade of Lumora - 2D Action Platformer
 
 <img alt="Unity" src="https://img.shields.io/badge/Unity-2022.3.48f1-lightgrey?style=for-the-badge&amp;logo=unity"> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white"> <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white">
 
-🌟 Overview
+## 🌟 Overview
 Blade of Lumora is a 2D action platformer game built with Unity, featuring smooth combat mechanics, dark forest terrain & enemy AI. Players navigate through challenging environments while collecting keys and battling enemies.
 
-🎥 Screenshots
+## 🎥 Screenshots
 
 ![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/a45aa948-c892-4fd5-8812-fdc7922ee592) ![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/2a38ce93-f28a-4cb9-8be1-4631be81a4af)
 
-✨ Features
+## ✨ Features
 
-🎮 Core Gameplay
+### 🎮 Core Gameplay
 
 - Fluid character movement and controls
 
@@ -22,7 +22,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 
 - Key collection mechanics
 
-🤖 Enemy AI
+### 🤖 Enemy AI
 
 - Patrol behavior
   
@@ -32,7 +32,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
   
 - Death animations
   
-🎵 Audio System
+### 🎵 Audio System
 
 - Background music
 
@@ -42,7 +42,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 
 - Player feedback audio
   
-🎨 Visual Elements
+### 🎨 Visual Elements
 
 - Pixel art graphics 
 
@@ -50,7 +50,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 
 - UI elements
   
-🔧 Technical Features
+### 🔧 Technical Features
   
 - Health and damage system
 
@@ -68,9 +68,9 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 
 - Menu systems
 
-🛠️ Development
+## 🛠️ Development
 
-Prerequisites: 
+### Prerequisites: 
 
 - Unity 2022.3.48f1
   
@@ -80,17 +80,7 @@ Prerequisites:
   
 - Project Structure
    
-🚀 Installation
-
-1. Clone the repository
-   
-2. Open project in Unity Hub
-   
-3. Install required dependencies
- 
-4. Build and run the game
-   
-🎮 Controls
+## 🎮 Controls
 
 - A/D - Move left/right
   
@@ -100,7 +90,6 @@ Prerequisites:
 
 - ESC - Pause menu
 
-🎮 Play the Game
-https://s1natraaa.itch.io/bladeoflumora
+## 🎮 Play the Game https://s1natraaa.itch.io/bladeoflumora
 
-Built with ❤️ by Muhammad Rezka Al Maghribi
+## Built with ❤️ by Muhammad Rezka Al Maghribi
