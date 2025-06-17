@@ -6,6 +6,10 @@
 🌟 Overview
 Blade of Lumora is a 2D action platformer game built with Unity, featuring smooth combat mechanics, enemy AI, and engaging level design. Players navigate through challenging environments while collecting keys and battling enemies.
 
+🎥 Screenshots
+
+![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/a45aa948-c892-4fd5-8812-fdc7922ee592) ![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/2a38ce93-f28a-4cb9-8be1-4631be81a4af)
+
 ✨ Features
 
 🎮 Core Gameplay
@@ -95,13 +99,6 @@ Prerequisites:
 - Left Mouse Button - Attack
 
 - ESC - Pause menu
-
-
-🎥 Screenshots
-
-![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/a45aa948-c892-4fd5-8812-fdc7922ee592) ![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/2a38ce93-f28a-4cb9-8be1-4631be81a4af)
-
-
 
 🎮 Play the Game
 https://s1natraaa.itch.io/bladeoflumora
