@@ -51,7 +51,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Health and damage system
 
 - Movement controls
-- 
+  
 - Enemy AI
 
 - Pathfinding
@@ -79,8 +79,11 @@ Prerequisites:
 🚀 Installation
 
 1. Clone the repository
+   
 2. Open project in Unity Hub
+   
 3. Install required dependencies
+ 
 4. Build and run the game
    
 🎮 Controls
@@ -95,8 +98,8 @@ Prerequisites:
 
 
 🎥 Screenshots
-[Add game screenshots here]![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/6584a89e-58fc-475f-9d57-6bc021d9c560)
-![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/a121f71e-5db0-49fa-9473-b64f729fc900)
+https://github.com/user-attachments/assets/6584a89e-58fc-475f-9d57-6bc021d9c560
+https://github.com/user-attachments/assets/a121f71e-5db0-49fa-9473-b64f729fc900
 
 
 🎮 Play the Game
