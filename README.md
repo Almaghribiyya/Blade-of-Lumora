@@ -53,9 +53,9 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Movement controls
   
 - Enemy AI
-- 
+  
 - Pathfinding
-- 
+  
 - State management
   
 - Audio Management
