@@ -25,7 +25,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Player detection
   
 - Combat engagement
-- 
+  
 - Death animations
   
 🎵 Audio System
@@ -37,7 +37,7 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Collection sounds
 
 - Player feedback audio
-- 
+  
 🎨 Visual Elements
 
 - Pixel art graphics 
@@ -53,9 +53,9 @@ Blade of Lumora is a 2D action platformer game built with Unity, featuring smoot
 - Movement controls
   
 - Enemy AI
-
+- 
 - Pathfinding
-
+- 
 - State management
   
 - Audio Management
@@ -98,8 +98,9 @@ Prerequisites:
 
 
 🎥 Screenshots
-https://github.com/user-attachments/assets/6584a89e-58fc-475f-9d57-6bc021d9c560
-https://github.com/user-attachments/assets/a121f71e-5db0-49fa-9473-b64f729fc900
+![Screenshot 2025-06-17 181005](https://github.com/user-attachments/assets/2a38ce93-f28a-4cb9-8be1-4631be81a4af)
+![Screenshot 2025-06-17 180931](https://github.com/user-attachments/assets/a45aa948-c892-4fd5-8812-fdc7922ee592)
+
 
 
 🎮 Play the Game
